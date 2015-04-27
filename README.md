@@ -1,3 +1,6 @@
+# DEPRECATED
+No longer maintained in favor of https://github.com/NodeBB/docker-builds
+
 ## Node.js Dockerfile
 
 This repository contains the **Dockerfile** of [NodeBB](https://nodebb.org/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/nickjanssen/nodebb/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
